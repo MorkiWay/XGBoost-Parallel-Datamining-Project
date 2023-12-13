@@ -12,4 +12,5 @@ When you run the Data Preprocessor, the output csvs will be stored in the data F
 
 Running the Master Trainer will conduct its own training/testing and report results to the terminal. A png named "out.png" will be created which contains a confusion matrix of the results. 
 
-## Datasets can be downloaded from https://nijianmo.github.io/amazon/index.html
+## Links
+Datasets can be downloaded from https://nijianmo.github.io/amazon/index.html
