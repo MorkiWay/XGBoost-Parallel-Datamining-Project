@@ -8,3 +8,5 @@ In order to run and test the module, you will need to first preprocess the data,
 When you run the Data Preprocessor, the output csvs will be stored in the data Folder, and a minimal master csv will be created which speeds up the reading in process for the Master Trainer. Be advised that data preprocessing on the Kindle dataset may take multiple hours depending on your system, and will write an additional 8GB of space on your disk.
 
 Running the Master Trainer will conduct its own training/testing and report results to the terminal. A png named "out.png" will be created which contains a confusion matrix of the results. 
+
+Datasets can be downloaded from https://nijianmo.github.io/amazon/index.html
